@@ -1,4 +1,4 @@
-# Titanic Disaster Analysis
+# 🚢 Titanic Disaster Analysis
 
 An in-depth data analysis project focused on the Titanic disaster. This project involves data cleaning, visualization, and machine learning to predict survival rates and uncover significant patterns from the dataset. It includes advanced techniques such as hyperparameter tuning and model evaluation.
 
